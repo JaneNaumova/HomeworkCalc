@@ -12,8 +12,7 @@
         android:layout_height="match_parent"
         android:layout_columnSpan="4"
         android:layout_gravity="fill"
-        android:textSize="@dimen/text_size"
-        />
+        android:textSize="@dimen/text_size" />
 
 
     <Button
